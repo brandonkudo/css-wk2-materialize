@@ -1,0 +1,4 @@
+.truncate:hover {
+  white-space: normal;
+  overflow: auto;
+}
